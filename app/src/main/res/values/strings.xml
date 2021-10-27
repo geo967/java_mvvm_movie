@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mvvm2</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="todo">TODO</string>
+    <string name="this_is_image">This is image</string>
+</resources>
